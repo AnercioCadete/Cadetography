@@ -1,0 +1,45 @@
+links para outras páginas
+About
+Projects
+Contacts
+
+
+
+_______________
+Hello, I'm 
+Anércio Cadete
+Quick Learner
+Frontend Developer
+Javascript Developer
+"Button" See my work (direct to Github)
+
+Link to social media
+linkedin, facebook, instagram, Github
+
+
+_________________
+||About
+I am an Angolan/Portuguese self taught in Frontend and gained this passion at my 30 birthday. Besides Frontend, i am interested in Design and Photography.
+I am self-motivated, quick learner and always keep improving myself by enhancing my knowledge and skills. 
+I really enjoy working in a team where I can learn from others. Also love travelling, swimming, cinema, music, Photography, video making, museums, walking around the city, team sports, family and friends. 
+
+
+_______________
+||Photography
+What you see can relax you
+Black Vs Something
+Clones
+Viagens
+
+______________
+||Contacts
+telefone +351 931 310 009
+email anerciopaimcadete@gmail.com
+linkedin https://www.linkedin.com/in/anerciocadete/
+instagram https://www.instagram.com/anercio_cadete/
+facebook https://www.facebook.com/anerciopaimcadete/
+
+_____________
+||Footer
+Anercio Cadete
+Copyright@2023 Anercio Cadete. All Rights Reserved.
